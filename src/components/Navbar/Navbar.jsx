@@ -11,7 +11,6 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        {/* <img src={images.logo} alt="logo" /> */}
         <span className="logoName">INGA</span>
         <span className="logonamelast">BIRE</span>
       </div>
